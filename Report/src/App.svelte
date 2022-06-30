@@ -12,7 +12,11 @@
 		text-align: center;
 		padding: 1em;
 		max-width: 240px;
-		margin: 0 auto;
+		/*margin: 0 auto;*/
+		margin-top: 10px;
+		margin-bottom: 10px;
+  		margin-left: 50px;
+  		margin-right: 50px;
 	}
 
 	h1 {
@@ -60,8 +64,14 @@
 
 
 	p {
+		font-weight: normal;
 		text-align: justify;
 		width: 100%;
+	}
+
+	.ListQuestions {
+		font-weight: bold;
+		text-align: left;
 	}
 
 	.ThreeCols {
@@ -138,24 +148,45 @@
 			<li>Address</li>
 			<li>Municipality</li>
 			<li>Neighborhood</li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<br>
+			<br>
+			<br>
+			
 		</ul>
 	</div>
 	
 	<h3>COVID-2019 Epidemiology</h3>
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
+		
 
 	</p>
 
 
 	<h2>Research Questions</h2>
-	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
-		information about the bike ride.
 
-	</p>
+	<ol class="ListQuestions">
+		<li>How has the number of trips taken changed pre and post COVID?</li>
+		<p>This question is a continuation of the study by Padmanabhan et al. (2021) who studied the effects of COVID-19 on bike sharing systems in three US cities. 
+			The idea here is to compare biking trends to the waves of COVID-19 where cases increased drastically.
+		</p>
+
+		<li>Have trip durations changed over time?</li>
+		<p></p>
+
+		<li>What times of day are most popular to use the MiBici system? </li>
+		<p>This question is based on a blog post by Todd W Schneider who analyzed the Citi Bike system in NYC. They created a plot of the average number of weekday 
+		    Citi Bike trips by hour of day between Manhattan and the outer boroughs. It illustrates that in the mornings there are more riders entering Manhattan than 
+			leaving, and the reverse occurs in the afternoon, illustrating commuter patterns similar to rush hour (when people are heading to work/school).
+		</p>
+
+		<li>What are the most popular pairs of start/end stations?</li>
+		<p></p>
+
+		</ol>
+
+
+
 
 
 	<h2>Results</h2>
