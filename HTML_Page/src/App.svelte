@@ -154,16 +154,16 @@
 	-->
 	
  	 <p> <a href="https://www.mibici.net/">MiBici</a> (MyBike) is Guadalajara's public bike sharing system in the state of Jalisco, Mexico. Created 
-		 in 2014, the system has over 3,200 bikes and 300 stations available in the municipalities of Guadalajara, Zapopan and Tlaquepaque. 
+		 in 2014, the system has over 3,200 bikes and 300 stations available in the municipalities of Guadalajara, Zapopan, and Tlaquepaque. 
 		 MiBici consists of a line of bikes that are locked into a network of docking stations throughout the municipalities. To use the bikes, one must
 		 purchase a subscription. The bikes can be unlocked from one station and returned to any other station in the system. Bikes are available every 
-		 day of the year from 05:00 AM to 00:59 AM, and are designed to be used for an unlimitied number of trips so long as each trip is less than 30 
+		 day of the year from 05:00 AM to 00:59 AM and are designed to be used for an unlimited number of trips so long as each trip is less than 30 
 		 minutes (on Sundays, this is 45 minutes). When bikes are used for periods of more than 30 minutes, additional charges are incurred.
 		 The program acts as a complement or extension to other transportation systems in the area <a href="https://www.mibici.net/es/preguntas-frecuentes/">[MiBici FAQs]</a>.
 
 		 <br><br>
-    	 As the coronavirus disease 2019 (COVID-19) hit Mexico in 2020, the governement announced a national lockdown which took place between 23 March 2020
-		 and 30 May 2020, where all non-essential activities and inperson education was suspended <a href="https://globalhealthsciences.ucsf.edu/sites/globalhealthsciences.ucsf.edu/files/mexico-covid-19-case-study-english.pdf">[UCSF IGHS]</a>. 
+    	 As the coronavirus disease 2019 (COVID-19) hit Mexico in 2020, the government announced a national lockdown which took place between 23 March 2020
+		 and 30 May 2020, where all non-essential activities and in person education was suspended <a href="https://globalhealthsciences.ucsf.edu/sites/globalhealthsciences.ucsf.edu/files/mexico-covid-19-case-study-english.pdf">[UCSF IGHS]</a>. 
 		 During this period and with the rise of social distancing as a measure to mitigate the spread of the disease, people seemed to turn to cycling
 		 as a form of mobility and exercise. On 18 May 2020, Christina Goldbaum published the New York Times article <a href="https://www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.html">“Thinking of Buying a Bike? Get Ready for a Very Long Wait” </a> 
 		 where they discussed the shortage of bicycles available to purchase in the NYC area and the desire to be outside amidst the pandemic. 
@@ -226,9 +226,9 @@
 		</div>
 	</div>
 	
-	<h3>COVID-2019</h3>
+	<h3>COVID-19</h3>
 	<p> The general directive of epidemiology for the Mexican government maintains a <a href="https://datos.covid-19.conacyt.mx/">dashboard</a> of COVID-19 data for the country. In this analysis, the daily 
-		count of comfirmed cases is used for the municipalities of interest.	
+		count of confirmed cases is used for the municipalities of interest.	
 	</p>
 
 
@@ -248,7 +248,7 @@
 
 
 
-		<li>Has the average trip durations changed over time?</li>
+		<li>Has the average trip duration changed over time?</li>
 		<p> The MiBici system is described to be used as a commuting option for people. With the lifestyle changes brought about by the COVID-19 pandemic,
 			have people changed how they use the system? Perhaps MiBici is being used more as a leisure activity.
 		
