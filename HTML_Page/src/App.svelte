@@ -228,7 +228,13 @@
 	
 	<h3>COVID-19</h3>
 	<p> The general directive of epidemiology for the Mexican government maintains a <a href="https://datos.covid-19.conacyt.mx/">dashboard</a> of COVID-19 data for the country. In this analysis, the daily 
-		count of confirmed cases is used for the municipalities of interest.	
+		<strong>count of confirmed cases</strong> is used for the municipalities of interest.	
+	</p>
+
+	<h3>Weather</h3>
+	<p> <a href="https://www.ncei.noaa.gov/cdo-web/">Climate Data Online</a>, from the United States (US)  National Oceanic and Atmospheric Administration (NOAA) & National Centers for Environmental Information (NCEI) 
+		Climate Division, provides free access to the National Climatic Data Center's archive of global historical weather and climate data in addition to station history information. In this analysis, the daily
+		measurements of <strong>temperature</strong> and <strong>precipitation</strong> are used.	
 	</p>
 
 
