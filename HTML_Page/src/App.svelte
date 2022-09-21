@@ -1,11 +1,11 @@
 <script>
   //import CC from "./lib/ui/CodeInline.svelte";
-  import Card from "./lib/ui/Card.svelte";
+  //import Card from "./lib/ui/Card.svelte";
   //import Img from "./lib/ui/Image.svelte";
-  import Ds_1 from "./designs/design_1.svelte";
-  import Ds_2 from "./designs/design_2.svelte";
-  import Ds_3 from "./designs/design_3.svelte";
-  import Ds_4 from "./designs/design_4.svelte";
+  //import Ds_1 from "./designs/design_1.svelte";
+  ///mport Ds_2 from "./designs/design_2.svelte";
+  //import Ds_3 from "./designs/design_3.svelte";
+  //import Ds_4 from "./designs/design_4.svelte";
 
 </script>
 
@@ -305,7 +305,7 @@
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
-	<Card><Ds_1 /></Card>
+	<!--<Card><Ds_1 /></Card>-->
 
 
 
@@ -313,7 +313,7 @@
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
-	<Card><Ds_2 /></Card>
+	<!--<Card><Ds_2 /></Card>-->
 
 
 
@@ -321,7 +321,7 @@
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
-	<Card><Ds_3 /></Card>
+	<!--<Card><Ds_3 /></Card>-->
 
 
 
@@ -330,7 +330,7 @@
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
-	<Card><Ds_4 /></Card>
+	<!--<Card><Ds_4 /></Card>-->
 
 
 
