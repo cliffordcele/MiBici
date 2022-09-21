@@ -1,8 +1,12 @@
 <script>
-	//export let name;
+  //import CC from "./lib/ui/CodeInline.svelte";
+  import Card from "./lib/ui/Card.svelte";
+  //import Img from "./lib/ui/Image.svelte";
+  import Ds_1 from "./designs/design_1.svelte";
+  import Ds_2 from "./designs/design_2.svelte";
+  import Ds_3 from "./designs/design_3.svelte";
+  import Ds_4 from "./designs/design_4.svelte";
 
-	// IMporting plots like svelte components
-	//import Ds_1 from "./designs/design_1.svelte";
 </script>
 
 
@@ -301,27 +305,33 @@
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
-	<!-- Must import plots with code below in script section (like importing svelte components)
-	<Card><Ds_1 /></Card> -->
-	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
-		information about the bike ride.
-	</p>
+	<Card><Ds_1 /></Card>
+
 
 
 	<h3>Question 2</h3>
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
+	<Card><Ds_2 /></Card>
+
+
 
 	<h3>Question 3</h3>
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
+	<Card><Ds_3 /></Card>
+
+
+
 
 	<h3>Question 4</h3>
 	<p> The Citi Bike dataset contains 21,765,814 observations across 15 variables. Each observation represents a bike ride, and each variable (in BOLD) contains 
 		information about the bike ride.
 	</p>
+	<Card><Ds_4 /></Card>
+
 
 
 	<h2>GitHub</h2>
