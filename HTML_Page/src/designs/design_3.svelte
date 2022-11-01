@@ -1,7 +1,6 @@
 <!-- Visualization based on: https://www.prcweb.co.uk/lab/circularheat/ -->
 
 
-<!--
 <script>
     // Size and margins
     const width = 600;
@@ -32,7 +31,7 @@
     //function apply_update(city_selected, scale_selected){
     //  console.log('update')
   </script>
-  -->
+
   
  <!-- {#if !data}
     <p>Loading the data, please wait...</p>
@@ -41,3 +40,19 @@
       <CircularHM data={data}/> 
     </div>
   {/if}-->
+
+
+
+
+
+
+
+
+{#if !data}
+  <p>Loading the data, please wait...</p>
+{:else}
+    <CircularHM data = {Balitmore_monthly_data} max_val = {max_value} graph_name = "Baltimore"/>
+    <CircularHM data = {Chicago_monthly_data} max_val = {max_value} graph_name = "Chicago"/>
+    <CircularHM data = {LA_monthly_data} max_val = {max_value} graph_name = "Los Angeles"/>
+    <CircularHM data = {LA_monthly_data} max_val = {max_value} graph_name = "Los Angeles"/>
+    {/if}
