@@ -2,10 +2,10 @@
   //import CC from "./lib/ui/CodeInline.svelte";
   //import Card from "./lib/ui/Card.svelte";
   //import Img from "./lib/ui/Image.svelte";
-  import Ds_1 from "./designs/design_1.svelte";
-  import Ds_2 from "./designs/design_2.svelte";
-  import Ds_3 from "./designs/design_3.svelte";
-  import Ds_4 from "./designs/design_4.svelte";
+  //import Ds_1 from "./designs/design_1.svelte";
+  //import Ds_2 from "./designs/design_2.svelte";
+  //import Ds_3 from "./designs/design_3.svelte";
+  //import Ds_4 from "./designs/design_4.svelte";
 
 </script>
 
@@ -322,7 +322,6 @@
 		information about the bike ride.
 	</p>
 	<!--<Card><Ds_3 /></Card>-->
-	<div> <Ds_3 /> </div>
 
 
 
