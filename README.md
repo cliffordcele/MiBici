@@ -19,9 +19,14 @@ pandemic (between January 2017 and December 2022).
 3. What times of day are most popular to use the MiBici system?
 4. What are the most popular pairs of start/end stations?
 
+## Key Outcomes 
 
-Skills: Python, Tableau, exploratory data analysis (EDA), jupyter notebook, webscraping, pandas, beautifulsoup, Data Visualization
-Publication: [Tableau Dashboard](https://public.tableau.com/app/profile/clifford.cele/viz/MiBici/) & Video
+fsdfsfdsdsdsfs
+
+## Tools & Publications
+
+* Tools: Python, Tableau, exploratory data analysis (EDA), jupyter notebook, webscraping, pandas, beautifulsoup, Data Visualization
+* Publication: [Tableau Dashboard](https://public.tableau.com/app/profile/clifford.cele/viz/MiBici/) & Video
 
 
 
