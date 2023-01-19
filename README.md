@@ -26,7 +26,7 @@ fsdfsfdsdsdsfs
 ## Tools & Publications
 
 * Tools: Python, Tableau, exploratory data analysis (EDA), jupyter notebook, webscraping, pandas, beautifulsoup, Data Visualization
-* Publication: [Tableau Dashboard](https://public.tableau.com/app/profile/clifford.cele/viz/MiBici/) & Video
+* Publication: [Tableau Dashboard](https://public.tableau.com/app/profile/clifford.cele/viz/MiBici/), Video, Medium Article
 
 
 
