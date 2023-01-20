@@ -61,13 +61,6 @@ Between 2017 and 2019, the MiBici system saw a steady increase in the number of 
 The trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. The most common trips have a duration of 5–7 minutes. Although there were overall less rides in 2020, this did not effect the pattern of trip durations seen in years before.
 
 
-<p float="left">
-  <img src="https://github.com/favicon.ico](https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="100" />
-  <img src="https://github.com/favicon.ico](https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" width="100" /> 
-  <img src="https://github.com/favicon.ico](https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" width="100" />
-</p>
-
-
 **3. What times of day are most popular to use the MiBici system?**
 
 The MiBici system sees a sharp increase in ridership Monday - Friday during commuting hours for those going to work/school (8h), leaving school (14h), and leaving work (18h). On the weekend, a peak occurs around 13h, which seems to indicate a more leisurely use of the system. This pattern does not change between 2019 & 2020, but there is a decrease in the average count of trips per hour between the two years. Although lockdown measures were in place between late March and the end of May, not all people had the luxury of working from home which may explain why the commuter pattern still exists in 2020.
