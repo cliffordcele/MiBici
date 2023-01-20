@@ -94,7 +94,7 @@ The top 30 routes taken in 2019 & 2020 are all located within the municipality o
 
 In conclusion, it appears that overall ridership decreased once the pandemic started, however the major patterns of how the system is used did not change drastically.
 
-## Tools & Publications
+## Tools & Publication
 
 * Tools: Python, Tableau, exploratory data analysis (EDA), jupyter notebook, webscraping, pandas, beautifulsoup, Data Visualization
 * Publication: [Tableau Dashboard](https://public.tableau.com/app/profile/clifford.cele/viz/MiBici/)
