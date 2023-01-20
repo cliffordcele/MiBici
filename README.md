@@ -18,6 +18,17 @@ pandemic (between January 2017 and December 2022).
 
 The MiBici [open data](https://www.mibici.net/es/datos-abiertos/) system contains over 20 million observations across 14 variables. Each observation represents a bike ride, and each variable contains information about the bike ride. Reverse geocoding was used in Python to obtain the full address, neighborhood, and municipality of each station. Data between January 2017 & December 2022 are analyzed in this analysis.
 
+
+Individual Ride Data    | Docking Station Data | Additional Station Data 
+----------------------- | -------------------- | -----------------------
+Trip ID                 | Station ID           | Address
+User ID                 | Station Name         | Municipality 
+Gender                  | Municipality         | Neighborhood
+Year of Birth           | Latitude             | 
+Start & End Date/Time   | Longitude            | 
+Start & End Station ID  | Docking Status       | 
+
+
 ### COVID-19
 
 The general directive of epidemiology for the Mexican government maintains a [dashboard](https://datos.covid-19.conacyt.mx/) of COVID-19 data for the country. In this analysis, the daily counts of confirmed cases are used for the municipalities of interest.
@@ -51,11 +62,19 @@ Are the popular locations that users visited before the pandemic different from 
 
 Between 2017 and 2019, the MiBici system saw a steady increase in the number of trips taken daily. Occasional drops in ridership can be seen around dates associated with holidays such as New Year's and Easter. This trend continues in the beginning of 2020. However, COVID-19 cases began appearing in Guadalajara in mid-March, and by the end of month, lockdown measures were implemented from 23 March to 30 May. With a ban on non-essential activities at the national level, the MiBici system saw a drastic drop in daily ridership from 10,000+ trips daily to a low of roughly 2,000 trips in April. Since the end of the national lockdown, the system has seen a slow rise in usage. It is interesting to note that the number of daily trips did not fall when larger waves of COVID-19 cases in 2021 & 2022 occured.
 
+<p align="center">
+<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/DailyTrips_COVID.png" width="600" />
+</p>
 
 **2. Has the trip duration changed over time?**
 
 The trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. The most common trips have a duration of 5–7 minutes. Although there were overall less rides in 2020, this did not effect the pattern of trip durations seen in years before.
 
+<p align="center">
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="250" />
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" width="250" /> 
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" width="250" />
+</p>
 
 **3. What times of day are most popular to use the MiBici system?**
 
@@ -65,6 +84,10 @@ The MiBici system sees a sharp increase in ridership Monday - Friday during 
 **4. What are the most popular routes taken and starting stations used?**
 
 The top 30 routes taken in 2019 & 2020 are all located within the municipality of Guadalajara, the largest city in the state. Among the top 10 routes in 2019, none of these trips start & end at the same station, and only 7/30 are roundtrips. This is different from 2020 where 4 of the top 10 trips start & end at the same station, and 10/30 are roundtrips. 
+
+<p align="center">
+<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_rotuespng" width="600" />
+</p>
 
 **Conclusion**
 
