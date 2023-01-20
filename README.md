@@ -86,7 +86,7 @@ The MiBici system sees a sharp increase in ridership Monday - Friday during 
 The top 30 routes taken in 2019 & 2020 are all located within the municipality of Guadalajara, the largest city in the state. Among the top 10 routes in 2019, none of these trips start & end at the same station, and only 7/30 are roundtrips. This is different from 2020 where 4 of the top 10 trips start & end at the same station, and 10/30 are roundtrips. 
 
 <p align="center">
-<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_rotuespng" width="600" />
+<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_routes.png" width="600" />
 </p>
 
 **Conclusion**
