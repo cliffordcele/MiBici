@@ -46,7 +46,7 @@ This question is based on a study by [Padmanabhan et al. (2021)](https://www.sci
 
 ### 2. Has the trip duration changed over time?
 
-The MiBici system is described to be used as a commuting option for people. With the lifestyle changes brought about by the COVID-19 pandemic, have people changed how long they use the system?
+The MiBici system is described to be used as a commuting option for people. With the lifestyle changes brought on by the COVID-19 pandemic, have people changed how long they use the system for?
 
 ### 3. What times of day are most popular to use the MiBici system?
 
