@@ -42,7 +42,7 @@ The google directions API is used to obtain  the cycling route coordinates betwe
 
 ### 1. How has the number of trips taken changed pre and post COVID?
 
-This question is based on the study by [Padmanabhan et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2590198220301937) who studied the effects of COVID-19 on bike sharing systems in three cities in the United States. The idea here is to compare biking trends to various waves of COVID-19 where cases changed drastically.
+This question is based on a study by [Padmanabhan et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2590198220301937) who investigated the effects of COVID-19 on bike sharing systems in three cities in the United States. The idea here is to compare biking trends to various waves of COVID-19 where cases changed drastically.
 
 ### 2. Has the trip duration changed over time?
 
