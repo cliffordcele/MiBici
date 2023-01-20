@@ -68,7 +68,7 @@ Between 2017 and 2019, the MiBici system saw a steady increase in the number of 
 
 **2. Has the trip duration changed over time?**
 
-Trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. The most common trips have a duration of 5–7 minutes. Although there were overall less rides in 2020, this did not effect the pattern of trip durations seen in years before.
+Trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. Most trips have a duration of 5–7 minutes. Although there were less rides taken in 2020 than 2019, this did not effect the pattern of trip durations seen in years before.
 
 <p align="center">
   <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="250" />
