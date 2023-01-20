@@ -54,7 +54,7 @@ Are the popular locations that users visited before the pandemic different from 
 
 Between 2017 and 2019, the MiBici system saw a steady increase in the number of trips taken daily. Occasional drops in ridership can be seen around dates associated with holidays such as New Year's and Easter. This trend continues in the beginning of 2020. However, COVID-19 cases began appearing in Guadalajara in mid-March, and by the end of month, lockdown measures were implemented from 23 March to 30 May. With a ban on non-essential activities at the national level, the MiBici system saw a drastic drop in daily ridership from 10,000+ trips daily to a low of roughly 2,000 trips in April. Since the end of the national lockdown, the system has seen a slow rise in usage. It is interesting to note that the number of daily trips did not fall when larger waves of COVID-19 cases in 2021 & 2022 occured.
 
-![Trip Counts & COVID-19 Cases](https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/DailyTrips_COVID.png?raw=true){: .center-image }
+<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/DailyTrips_COVID.png" width="600" />
 
 **2. Has the trip duration changed over time?**
 
@@ -65,17 +65,6 @@ The trip durations range between 1.5 - 150 minutes, with most trips falling 
   <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" width="300" /> 
   <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" width="300" />
 </p>
-
-<div class='container'>
-<img style="height: auto; width: 33%;" class="img" src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 33%;" class="img" src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 33%;" class="img" src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" />
-</div>
-
 
 **3. What times of day are most popular to use the MiBici system?**
 
