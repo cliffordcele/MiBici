@@ -12,6 +12,21 @@ are incurred. The program acts as a complement or extension to other transportat
 As such, the goal of this project is to explore and visualize how cycling behaviors have changed in Guadalajara and its surrounding municipalities due to the COVID-19 
 pandemic (between January 2017 and December 2022).
 
+## Data Sources
+
+### MiBici
+
+The MiBici open data webpage contains over 20 million observations across 14 variables. Each observation represents a bike ride, and each variable contains information about the bike ride. Reverse geocoding was used in Python to obtain the full address, neighborhood, and municipality of each station. Data between January 2017 & December 2022 are analyzed in this analysis.
+
+### COVID-19
+
+The general directive of epidemiology for the Mexican government maintains a [dashboard](https://datos.covid-19.conacyt.mx/) of COVID-19 data for the country. In this analysis, the daily counts of confirmed cases are used for the municipalities of interest.
+
+### Google Directions API
+
+The google directions API is used to obtain  the cycling route coordinates between two stations. The [website states](https://developers.google.com/maps/documentation/directions/get-directions) that "The API returns the most efficient routes when calculating directions. Travel time is the primary factor optimized, but the API may also take into account other factors such as distance, number of turns and many more when deciding which route is the most efficient." Although each trip may not take the most efficient route between stations, this is assumed to be the case for the sake of visualization.
+
+
 ## Questions
 
 1. How has the number of trips taken changed pre and post COVID?
