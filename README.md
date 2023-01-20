@@ -60,6 +60,22 @@ Between 2017 and 2019, the MiBici system saw a steady increase in the number of 
 
 The trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. The most common trips have a duration of 5–7 minutes. Although there were overall less rides in 2020, this did not effect the pattern of trip durations seen in years before.
 
+<p float="left">
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="100" />
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" width="100" /> 
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" width="100" />
+</p>
+
+<div class='container'>
+<img style="height: auto; width: 33%;" class="img" src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 33%;" class="img" src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 33%;" class="img" src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" />
+</div>
+
 
 **3. What times of day are most popular to use the MiBici system?**
 
