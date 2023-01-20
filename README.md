@@ -18,7 +18,14 @@ pandemic (between January 2017 and December 2022).
 
 The MiBici [open data](https://www.mibici.net/es/datos-abiertos/) system contains over 20 million observations across 14 variables. Each observation represents a bike ride, and each variable contains information about the bike ride. Reverse geocoding was used in Python to obtain the full address, neighborhood, and municipality of each station. Data between January 2017 & December 2022 are analyzed in this analysis.
 
-![var_names](https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/data_analysis_variables.png?raw=true){: .center-image }
+Individual Ride Data    | Docking Station Data | Additional Station Data 
+----------------------- | -------------------- | -----------------------
+Trip ID                 | Station ID           | Address
+User ID                 | Station Name         | Municipality 
+Gender                  | Municipality         | Neighborhood
+Year of Birth           | Latitude             | 
+Start & End Date/Time   | Longitude            | 
+Start & End Station ID  | Docking Status       | 
 
 
 ### COVID-19
@@ -55,7 +62,7 @@ Are the popular locations that users visited before the pandemic different from 
 Between 2017 and 2019, the MiBici system saw a steady increase in the number of trips taken daily. Occasional drops in ridership can be seen around dates associated with holidays such as New Year's and Easter. This trend continues in the beginning of 2020. However, COVID-19 cases began appearing in Guadalajara in mid-March, and by the end of month, lockdown measures were implemented from 23 March to 30 May. With a ban on non-essential activities at the national level, the MiBici system saw a drastic drop in daily ridership from 10,000+ trips daily to a low of roughly 2,000 trips in April. Since the end of the national lockdown, the system has seen a slow rise in usage. It is interesting to note that the number of daily trips did not fall when larger waves of COVID-19 cases in 2021 & 2022 occured.
 
 <p align="center">
-<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/DailyTrips_COVID.png" width="600" />
+<img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/DailyTrips_COVID.png" width="700" />
 </p>
 
 **2. Has the trip duration changed over time?**
@@ -63,9 +70,9 @@ Between 2017 and 2019, the MiBici system saw a steady increase in the number of 
 The trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. The most common trips have a duration of 5–7 minutes. Although there were overall less rides in 2020, this did not effect the pattern of trip durations seen in years before.
 
 <p align="center">
-  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="300" />
-  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" width="300" /> 
-  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" width="300" />
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="250" />
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekday.png" width="250" /> 
+  <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/Weekend.png" width="250" />
 </p>
 
 **3. What times of day are most popular to use the MiBici system?**
