@@ -15,9 +15,9 @@ pandemic (between January 2017 and December 2022).
 ## Questions
 
 1. How has the number of trips taken changed pre and post COVID?
-2. Has the average trip duration changed over time?
+2. Has the trip duration changed over time?
 3. What times of day are most popular to use the MiBici system?
-4. What are the most popular pairs of start/end stations?
+4. What are the most popular routes and starting stations?
 
 ## Key Outcomes 
 
