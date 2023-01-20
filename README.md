@@ -56,6 +56,10 @@ This question is based on a [blog post](https://toddwschneider.com/posts/a-tale-
 
 Are the popular locations that users visited before the pandemic different from the ones they visited during and after the pandemic?
 
+## Data Cleaning
+
+Extensive details on the data cleaning process can be found in this repository under /Code/MiBici_DataAnalysis.ipynb 
+
 ## Key Outcomes 
 
 **1. How has the number of trips taken changed pre and post COVID?**
@@ -68,7 +72,7 @@ Between 2017 and 2019, the MiBici system saw a steady increase in the number of 
 
 **2. Has the trip duration changed over time?**
 
-Trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. Most trips have a duration of 5–7 minutes. Although there were less rides taken in 2020 than 2019, this did not effect the pattern of trip durations seen in years before.
+All trip durations range between 1.5 - 150 minutes, with most trips falling under 30 minutes. Most trips have a duration of 5–7 minutes. Although there were less rides taken in 2020 (in yellow) than 2019 (in green), this did not effect the pattern of trip durations seen in years before.
 
 <p align="center">
   <img src="https://github.com/cliffordcele/MiBici/blob/main/Github_Pics/trip_durations.png" width="250" />
@@ -78,7 +82,7 @@ Trip durations range between 1.5 - 150 minutes, with most trips falling unde
 
 **3. What times of day are most popular to use the MiBici system?**
 
-The MiBici system sees a sharp increase in ridership Monday - Friday during commuting hours for those going to work/school (8h), leaving school (14h), and leaving work (18h). On the weekend, a peak occurs around 13h, which seems to indicate a more leisurely use of the system. This pattern does not change between 2019 & 2020, but there is a decrease in the average count of trips per hour between the two years. Although lockdown measures were in place between late March and the end of May, not all people had the luxury of working from home which may explain why the commuter pattern still exists in 2020.
+The plots above compare data from 2019 (green) to 2020 (yellow). The MiBici system sees a sharp increase in ridership Monday - Friday during commuting hours for those going to work/school (8h), leaving school (14h), and leaving work (18h). On the weekend, a peak occurs around 13h, which seems to indicate a more leisurely use of the system. This pattern does not change between 2019 & 2020, but there is a decrease in the average count of trips per hour between the two years. Although lockdown measures were in place between late March and the end of May, not all people had the luxury of working from home which may explain why the commuter pattern still exists in 2020.
 
 
 **4. What are the most popular routes taken and starting stations used?**
