@@ -18,7 +18,7 @@ pandemic (between January 2017 and December 2022).
 
 The MiBici [open data](https://www.mibici.net/es/datos-abiertos/) system contains over 20 million observations across 14 variables. Each observation represents a bike ride, and each variable contains information about the bike ride. Reverse geocoding was used in Python to obtain the full address, neighborhood, and municipality of each station. Data between January 2017 & December 2022 are analyzed in this analysis.
 
-<div align="center">
+
 Individual Ride Data    | Docking Station Data | Additional Station Data 
 ----------------------- | -------------------- | -----------------------
 Trip ID                 | Station ID           | Address
@@ -27,7 +27,6 @@ Gender                  | Municipality         | Neighborhood
 Year of Birth           | Latitude             | 
 Start & End Date/Time   | Longitude            | 
 Start & End Station ID  | Docking Status       | 
-</div>
 
 
 ### COVID-19
