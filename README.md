@@ -16,7 +16,7 @@ pandemic (between January 2017 and December 2022).
 
 ### MiBici
 
-The MiBici open data webpage contains over 20 million observations across 14 variables. Each observation represents a bike ride, and each variable contains information about the bike ride. Reverse geocoding was used in Python to obtain the full address, neighborhood, and municipality of each station. Data between January 2017 & December 2022 are analyzed in this analysis.
+The MiBici [open data](https://www.mibici.net/es/datos-abiertos/) system contains over 20 million observations across 14 variables. Each observation represents a bike ride, and each variable contains information about the bike ride. Reverse geocoding was used in Python to obtain the full address, neighborhood, and municipality of each station. Data between January 2017 & December 2022 are analyzed in this analysis.
 
 ### COVID-19
 
@@ -29,10 +29,21 @@ The google directions API is used to obtain  the cycling route coordinates betwe
 
 ## Questions
 
-1. How has the number of trips taken changed pre and post COVID?
-2. Has the trip duration changed over time?
-3. What times of day are most popular to use the MiBici system?
-4. What are the most popular routes and starting stations?
+### 1. How has the number of trips taken changed pre and post COVID?
+
+This question is based on the study by [Padmanabhan et al. (2021)](https://www.sciencedirect.com/science/article/pii/S2590198220301937) who studied the effects of COVID-19 on bike sharing systems in three cities in the United States. The idea here is to compare biking trends to various waves of COVID-19 where cases changed drastically.
+
+### 2. Has the trip duration changed over time?
+
+The MiBici system is described to be used as a commuting option for people. With the lifestyle changes brought about by the COVID-19 pandemic, have people changed how long they use the system?
+
+### 3. What times of day are most popular to use the MiBici system?
+
+This question is based on a [blog post](https://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/) by Todd W Schneider who analyzed the Citi Bike system in New York City. They created a plot of the average number of weekday Citi Bike trips by hour of day between Manhattan and the outer boroughs. It illustrates that in the mornings there are more riders entering Manhattan than leaving, and the reverse occurs in the afternoon; illustrating commuter patterns like rush hour (when people are heading to and from work/school).
+
+### 4. What are the most popular routes and starting stations?
+
+Are the popular locations that users visited before the pandemic different from the ones they visited during and after the pandemic?
 
 ## Key Outcomes 
 
