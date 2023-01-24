@@ -100,7 +100,7 @@ In conclusion, it appears that overall ridership decreased once the pandemic sta
 
 ## Tools & Publication
 
-* Tools: Python, Tableau, exploratory data analysis (EDA), jupyter notebook, webscraping, pandas, beautifulsoup, Data Visualization
+* Tools: Python, Tableau, exploratory data analysis (EDA),  jupyter notebook, Google Directions API, webscraping, pandas, beautifulsoup, Data Visualization
 * Publication: [Tableau Dashboard](https://public.tableau.com/app/profile/clifford.cele/viz/MiBici/Dashboard?publish=yes)
 
 
